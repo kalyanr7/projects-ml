@@ -1,0 +1,31 @@
+{
+  "build": "4_cp38",
+  "build_number": 4,
+  "channel": "https://conda.anaconda.org/conda-forge/osx-64",
+  "constrains": [
+    "python 3.8.* *_cpython"
+  ],
+  "depends": [],
+  "extracted_package_dir": "/opt/anaconda3/pkgs/python_abi-3.8-4_cp38",
+  "files": [],
+  "fn": "python_abi-3.8-4_cp38.conda",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "/opt/anaconda3/pkgs/python_abi-3.8-4_cp38",
+    "type": 1
+  },
+  "md5": "74bec187a12aed00501eaafd35e694bf",
+  "name": "python_abi",
+  "package_tarball_full_path": "/opt/anaconda3/pkgs/python_abi-3.8-4_cp38.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "0dab6ce7b8e48f2308aa9c37e8feceaa7c84ee335745c1803686fbbb59a19926",
+  "size": 6479,
+  "subdir": "osx-64",
+  "timestamp": 1695147767000,
+  "url": "https://conda.anaconda.org/conda-forge/osx-64/python_abi-3.8-4_cp38.conda",
+  "version": "3.8"
+}

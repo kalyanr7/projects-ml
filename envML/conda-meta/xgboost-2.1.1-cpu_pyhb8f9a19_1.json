@@ -1,0 +1,34 @@
+{
+  "build": "cpu_pyhb8f9a19_1",
+  "build_number": 1,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "py-xgboost 2.1.1 cpu_pyh995e691_1",
+    "python >=3.8"
+  ],
+  "extracted_package_dir": "/opt/anaconda3/pkgs/xgboost-2.1.1-cpu_pyhb8f9a19_1",
+  "files": [],
+  "fn": "xgboost-2.1.1-cpu_pyhb8f9a19_1.conda",
+  "license": "Apache-2.0",
+  "link": {
+    "source": "/opt/anaconda3/pkgs/xgboost-2.1.1-cpu_pyhb8f9a19_1",
+    "type": 1
+  },
+  "md5": "bc3d2545931539e258c58deeb59043ca",
+  "name": "xgboost",
+  "noarch": "python",
+  "package_tarball_full_path": "/opt/anaconda3/pkgs/xgboost-2.1.1-cpu_pyhb8f9a19_1.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "conda-forge::xgboost",
+  "sha256": "636d0edde8e6aa59817c7742a8c8317c11e20e7bcf7d7c5e35d3a9df9ad09f11",
+  "size": 14298,
+  "subdir": "noarch",
+  "timestamp": 1722455224000,
+  "url": "https://conda.anaconda.org/conda-forge/noarch/xgboost-2.1.1-cpu_pyhb8f9a19_1.conda",
+  "version": "2.1.1"
+}
